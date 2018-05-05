@@ -1,0 +1,1 @@
+a simple compiler for c/c++,which translates c/c++ into MIPS
